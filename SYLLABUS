@@ -1,0 +1,141 @@
+THE CERTIFIED ETHICAL HACKER(CEH)CERTIFICATION.
+1.INTRODUCTION TO ETHICAL HACKING
+. Overview of ethical hacking and its impportance.
+. Understanding the difference between ethical hacking and black hat hacker.
+. Types of hackers(white hat,black hat,gray hat..etc).
+. Ethics in ethical hacking.
+. Understanding legal and compliance issues.
+2.FOOTPRINTING AND RECONNAISSANCE.
+. Techniques for gathering information about target systems.
+. Open-source intelligence(OSINT).
+. Tools used for reconnaissance(eg. google hacking,whois,dns interrogation..etc).
+. Methods of network discovery and reconnaissance.
+. Type of reconnaissance(active and passive).
+3.SCANNING NETWORKS.
+. Scanning techniques for discovering active systems and open ports.
+. Network enumuration and detection methods.
+. Tools for network scanning(eg. nmap,netcat,netdiscover).
+. Identifying live hosts and services.
+. Advanced scanning techniques(eg. banner grabbing,fingerprinting...etc).
+4.ENUMERATION.
+. Extracting information from systems through enumeration.
+. SMB enumeration(windows-specific).
+. SNMP enumeration.
+. DNS enumeration.
+. NETBIOS enumeration.
+. LDAP enumeration.
+. Techniques and tools used for enumeration(eg.SNMPWALK,ENUM4LINUX,SMBCLIENT...ETC).
+5. VULNERABILITY ANALYSIS.
+. Understanding vulnerabilities and their risk factors.
+. Vulnerability assessment and penetration testing.
+. Tools used for vulnerability scanning(eg. nessus,openvas..etc).
+. Methods for identifying weaknesses in systems and application.
+6.SYATEM HACKING.
+. Gaining access to systems through various methods.
+. Exploiting vulnerabilities (e.g., buffer overflows, weak passwords).
+. Techniques for escalating privileges and maintaining access.
+. Covering tracks to avoid detection (e.g., log modification, rootkits).
+7.MALWARE THREATS.
+. Understanding various types of malware (viruses, worms, Trojans, ransomware, etc.).
+. How malware works and its effects on systems.
+. Malware analysis techniques.
+. Tools and methods for detecting and defending against malware.
+8. SNIFFING.
+. Techniques for capturing and analyzing network traffic.
+. Tools used for sniffing (e.g., Wireshark, Tcpdump).
+. Understanding protocols like HTTP, DNS, FTP, and more.
+. Analyzing and capturing sensitive data like passwords and session tokens.
+. Mitigating sniffing attacks (e.g., encryption).
+9.SOCIAL ENGINEERING.
+. Techniques for manipulating individuals to gain access or information.
+. Types of social engineering attacks (phishing, pretexting, baiting, tailgating).
+. Understanding human psychology and exploiting it.
+. Social engineering tools and methods (e.g., SET - Social Engineering Toolkit).
+10.DENIAL-OF-SERVICE(DOS)AND DISTRIBUTED DENIAL-OF-SERVICE(DDOS).
+. Understanding DoS and DDoS attacks.
+. Methods for launching DoS and DDoS attacks.
+. Tools used for DoS/DDoS attacks (e.g., LOIC, HOIC).
+. Defending against DoS/DDoS attacks.
+11.SESSION HIJACKING.
+. Understanding session management and vulnerabilities.
+. Types of session hijacking (e.g., TCP, HTTP, cookie hijacking).
+. Techniques for hijacking a session.
+. Tools used for session hijacking (e.g., Cain & Abel, Ettercap).
+. Preventing session hijacking (e.g., HTTPS, cookie security).
+12.HACKING WEB SERVER.
+. Identifying vulnerabilities in web servers.
+. Methods of exploiting web server misconfigurations.
+. Tools and techniques for hacking web servers (e.g., Nikto, DirBuster).
+. Exploiting web server vulnerabilities like directory traversal, default installations.
+13.HACKING WEB APPLICATIONS.
+. Common web application vulnerabilities (e.g., SQL injection, Cross-Site Scripting - XSS, Cross-Site Request Forgery - CSRF).
+. Techniques for exploiting web application vulnerabilities.
+. Tools for web application hacking (e.g., Burp Suite, OWASP ZAP).
+. Methods for testing the security of web applications (e.g., fuzzing, parameter manipulation).
+14.SQL INJECTION.
+. Understanding SQL injection attacks and their impact.
+. Techniques for exploiting SQL injection vulnerabilities.
+. Using tools for SQL injection attacks (e.g., SQLmap).
+. Preventing SQL injection attacks through input validation and secure coding.
+15.WIRELESS NETWORK HACKING.
+. Understanding wireless network security protocols (WEP, WPA, WPA2).
+. Techniques for cracking wireless network passwords (e.g., aircrack-ng, Wifite).
+. Attacks on wireless networks (e.g., rogue APs, evil twin, deauthentication attacks).
+. Protecting wireless networks with proper encryption and security settings.
+16.HACKING MOBILE PLATFORMS.
+. Understanding mobile operating systems (Android, iOS).
+. Common mobile app vulnerabilities.
+. Techniques for mobile platform exploitation.
+. Mobile penetration testing tools (e.g., Drozer for Android, Burp Suite for mobile apps).
+. Protecting mobile apps from security vulnerabilities.
+17.EVADING IDS,FIREWALLS,AND HONEYPOTS.
+. Understanding intrusion detection systems (IDS) and firewalls.
+. Techniques for evading detection (e.g., packet manipulation, tunneling).
+. Using techniques like fragmentation, spoofing, and encryption to bypass security mechanisms.
+. Understanding honeypots and how to avoid detection by them.
+18.CLOUD COMPUTING.
+. Cloud computing security models (IaaS, PaaS, SaaS).
+. Risks and vulnerabilities in cloud environments.
+. Securing cloud infrastructure and services.
+. Techniques for testing the security of cloud environments.
+19.CRYPTOGRAPHY.
+. Basics of cryptography and its applications in security.
+. Symmetric vs. asymmetric encryption.
+. Common cryptographic algorithms (e.g., AES, RSA, ECC).
+. Cryptanalysis techniques and tools.
+. Best practices for secure communication and data protection.
+20.PENTRATION TESTING.
+. Understanding the penetration testing lifecycle.
+. Planning, scoping, and executing penetration tests.
+. Reporting and documenting findings.
+. Tools used in penetration testing (e.g., Metasploit, Nmap, Burp Suite).
+. Ethical considerations and standards for penetration testing.
+ADDITIONAL TOPICS:---------
+* Security Operations and Incident Response
+* Post-exploitation techniques
+* Security policies and standards
+* Cybersecurity frameworks and regulations (NIST, ISO 27001)
+CEH CERTIFICATION EXAM DETAILS.
+. Duration: 4 hours
+. Number of questions: 125 multiple-choice questions.
+. Passing score: 70%(baries based on exam version).
+. Exam code:312-50.
+HOW TO PREPARE:
+. Official EC-Councle training:you can enroll in the official CEH training courses(online or classroom).
+. Self-study:Use books,online tutorials,and practice exams.
+. Practical labs: set up a virtual lab using tools like kali linux,metasploit,and other to practice penetration testing and ethical hacking techniques.
+
+
+
+--------------------------ALL THE BEST FOR BECOME PROTECTIVE PERSONE---------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
